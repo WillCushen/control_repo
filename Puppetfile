@@ -1,2 +1,1 @@
-mod 'thias-libvirt', '1.0.0'
-mod 'puppetlabs-stdlib', '4.25.0'
+mod'puppetlabs-vsphere', '1.2.2'
